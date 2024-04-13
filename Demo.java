@@ -9,10 +9,12 @@ Class Demo{
      System.out.println("hello World");
   }
 
-  //task 2 
-  class demo2{
+
+
+  //task 1
+  class Demo2{
     public static void main(String[] args){
-      System.out.println("Task 2 done");
+      //logic
     }
   }
 }
